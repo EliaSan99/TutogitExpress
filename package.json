@@ -1,0 +1,22 @@
+{
+  "name": "routingtuto",
+  "version": "1.0.0",
+  "description": "Mandando a traer paginas html con middleware a nivel direccionador.",
+  "main": "Express.js ",
+  "scripts": {
+    "start": "node Express.js",
+    "dev": "nodemon Express.js"
+  },
+  "keywords": [
+    "Direccionamiento",
+    "Middleware"
+  ],
+  "author": "Elías Sánchez García",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.18"
+  }
+}
